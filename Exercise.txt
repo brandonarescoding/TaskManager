@@ -1,0 +1,60 @@
+Task Management System
+
+Description:
+
+Create a simple task management system using PHP. The system should allow users to add, edit, delete, and view tasks. Each task should have a title, description, and status (e.g., "To Do," "In Progress," or "Completed").
+
+Requirements:
+
+    Task Listing:
+        Display a list of tasks on the homepage.
+        Each task should show its title, description, and status.
+        Tasks should be sorted by status (e.g., "To Do" tasks first, then "In Progress," and finally "Completed").
+
+    Add Task:
+        Include a form that allows users to add a new task.
+        The form should have fields for title, description, and status.
+        When a user submits the form, the task should be added to the list.
+
+    Edit Task:
+        Allow users to edit existing tasks.
+        Provide an edit button for each task that opens a form with pre-filled task details.
+        Users can update the task's title, description, and status.
+
+    Delete Task:
+        Allow users to delete tasks.
+        Provide a delete button for each task that removes the task from the list.
+
+    Task Status Change:
+        Allow users to change the status of a task (e.g., from "To Do" to "In Progress").
+        Provide a dropdown or radio buttons to select the new status.
+
+Additional Features (Optional):
+
+    Task Validation:
+        Implement validation for task fields (e.g., required fields, maximum length).
+
+    Database Integration:
+        Store tasks in a MySQL database for persistence.
+        Modify the PHP code to interact with the database for CRUD operations.
+
+    User Authentication:
+        Implement user authentication so that only authenticated users can add, edit, or delete tasks.
+
+Instructions:
+
+    Set up a PHP development environment (e.g., XAMPP, WAMP, or a web server with PHP support).
+
+    Create the necessary PHP files (e.g., index.php, add.php, edit.php, delete.php).
+
+    Design a user-friendly interface for your task management system using HTML and CSS.
+
+    Write PHP code to implement the functionality described in the requirements.
+
+    Test your task management system by adding, editing, and deleting tasks.
+
+    Optionally, integrate a database for data persistence or implement user authentication.
+
+    Provide clear instructions for how to use your task management system.
+
+This project will help you practice PHP programming, HTML/CSS for the user interface, and basic CRUD (Create, Read, Update, Delete) operations. You can also extend this project by adding more features and improving the user experience.
